@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lam Phuong Nguyen</h1>
 <h3 align="center">A passionate graduate student exploring AI research in Vietnam</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lamn17&label=Profile%20views&color=0e75b6&style=flat" alt="Lamn17 profile views" />
-</p>
-
 ## About Me
 
 - 🎓 I hold a **B.Eng. in Electronics and Telecommunications** and am currently studying for an **M.Eng. in Telecommunications at TDTU**.
