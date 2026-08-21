@@ -6,7 +6,7 @@
 - 🎓 I hold a **B.Eng. in Electronics and Telecommunications** and am currently studying for an **M.Eng. in Telecommunications at TDTU**.
 - 🔬 My research interests include **Machine Learning** and **Computer Vision**.
 - 🤝 I am open to collaborating on **AI and Computer Vision research projects**.
-- 💬 Ask me about **Machine Learning, Computer Vision, and Telecommunications**.
+- 💬 Ask me about **Computer Vision, Active Learning, Few-shot Learning and Telecommunications**.
 - 📫 Reach me at **[lamn16085@gmail.com](mailto:lamn16085@gmail.com)**.
 
 ## Connect with Me
